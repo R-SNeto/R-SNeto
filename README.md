@@ -13,6 +13,6 @@
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/R-SNeto/R-SNeto/output/github-snake.svg)
+![snake gif](https://raw.githubusercontent.com/R-SNeto/R-SNeto/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
