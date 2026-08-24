@@ -4,4 +4,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-SNeto&theme=react-dark&bg_color=000000&color=00ff7f&line=00ff7f&point=e6ffef&area=true&hide_border=true&area_color=00ff7f" width="100%"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff7f,50:0a2e1c,100:000000&height=3&width=1000" width="100%"/> <div align="center">
 
-<a href="mailto:rneto879@gmail.com"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff7f"/> </a> <a href="https://www.linkedin.com/in/raimundo-neto-0179b9251"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff7f"/> </a> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,50:0a2e1c,100:000000&height=100&section=footer" width="100%"/>
+<a href="mailto:rneto879@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff7f&logoSize=auto" height="100"/></a> <a href="https://www.linkedin.com/in/raimundo-neto-0179b9251"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff7f&logoSize=auto" height="100"/></a>
+
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,50:0a2e1c,100:000000&height=100&section=footer" width="100%"/>
