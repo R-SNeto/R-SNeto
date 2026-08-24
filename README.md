@@ -4,6 +4,10 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=R-SNeto&theme=react-dark&bg_color=000000&color=00ff7f&line=00ff7f&point=e6ffef&area=true&hide_border=true&area_color=00ff7f" width="100%"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff7f,50:0a2e1c,100:000000&height=3&width=1000" width="100%"/> <div align="center">
 
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a2e1c,100:00ff7f&height=36&text=MAIN%20PROJECTS&fontSize=20&fontColor=00ff7f&fontAlignY=58"
+
+<a href="https://github.com/R-SNeto/Smart-API-with-Speech-Recogntion"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=R-SNeto&repo=Smart-API-with-Speech-Recogntion&theme=transparent&hide_border=true&bg_color=000000&title_color=00ff7f&icon_color=00ff7f&text_color=e6ffef" width="45%"/></a> <a href="https://github.com/R-SNeto/Pets_Register"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=R-SNeto&repo=Pets_Register&theme=transparent&hide_border=true&bg_color=000000&title_color=00ff7f&icon_color=00ff7f&text_color=e6ffef" width="45%"/> </a> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a2e1c,100:00ff7f&height=3&width=1000" width="100%"/> <div align="center">
+
 <a href="mailto:rneto879@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff7f&logoSize=auto" height="100"/></a> <a href="https://www.linkedin.com/in/raimundo-neto-0179b9251"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff7f&logoSize=auto" height="100"/></a>
 
 </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,50:0a2e1c,100:000000&height=100&section=footer" width="100%"/>
