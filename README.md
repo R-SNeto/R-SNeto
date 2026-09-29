@@ -1,11 +1,47 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a2e1c,100:00ff7f&height=260&section=header&text=RAIMUNDO%20NETO&fontSize=48&fontColor=00ff9c&fontAlignY=35&desc=SOFTWARE%20ENGINEERR&descAlignY=52&descSize=20&descColor=e6ffef&animation=fadeIn" width="100%"/> 
+<h1 align="center">Hey there,👋 I'm Neto</h1>
 
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff7f"/> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff7f"/> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff7f"/> <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff7f"/> <img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=00ff7f"/> <img src="https://img.shields.io/badge/Gradle-000000?style=for-the-badge&logo=gradle&logoColor=00ff7f"/> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff7f"/> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff7f"/> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a2e1c,100:00ff7f&height=3&width=1000" width="100%"/> <div align="center">
+<h3 align="center">Backend Developer | Java + Spring Boot</h3>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a2e1c,100:00ff7f&height=36&text=MAIN%20PROJECTS&fontSize=20&fontColor=00ff7f&fontAlignY=58"
+---
 
-<a href="https://github.com/R-SNeto/Smart-API-with-Speech-Recogntion"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=R-SNeto&repo=Smart-API-with-Speech-Recogntion&theme=transparent&hide_border=true&bg_color=000000&title_color=00ff7f&icon_color=00ff7f&text_color=e6ffef" width="40%"/></a> <a href="https://github.com/R-SNeto/Pets_Register"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=R-SNeto&repo=Pets_Register&theme=transparent&hide_border=true&bg_color=000000&title_color=00ff7f&icon_color=00ff7f&text_color=e6ffef" width="40%"/> </a> <a href="https://github.com/R-SNeto/Web-Services"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=R-SNeto&repo=Web-Services&theme=transparent&hide_border=true&bg_color=000000&title_color=00ff7f&icon_color=00ff7f&text_color=e6ffef" width="40%"/> </a> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0a2e1c,100:00ff7f&height=3&width=1000" width="100%"/> <div align="center">
+## 🌐 Connect with Me
 
-<a href="mailto:rneto879@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff7f&logoSize=auto" height="100"/></a> <a href="https://www.linkedin.com/in/raimundo-neto-0179b9251"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff7f&logoSize=auto" height="100"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/raimundo-neto-0179b9251">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="rneto879@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff7f,50:0a2e1c,100:000000&height=100&section=footer" width="100%"/>
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,maven,gradle,postgres,mysql,git,github&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R-SNeto&show_icons=true&theme=algolia&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-SNeto&theme=vue-dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-SNeto&layout=compact&theme=algolia&hide_border=true" height="165" />
+</p>
+
